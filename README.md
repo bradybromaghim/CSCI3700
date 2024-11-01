@@ -1,6 +1,10 @@
-Homework 3 This program will update basket_a by adding a cherry and display the unique fruits in both baskets when prompted.
-Team members: Brady Bromaghim
-Download all of the files, then run the quick start commands below
+Homework 3 
+
+This program will update basket_a by adding a cherry and display the unique fruits in both baskets when prompted.
+
+Team members: Brady Bromaghim.
+
+Download all of the files, then run the quick start commands below:
 ## Quick Start
 ### Local Test Setup
 First, we need to install a Python 3 virtual environment with:
