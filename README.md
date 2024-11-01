@@ -1,6 +1,6 @@
 Homework 3
 Team members: Brady Bromaghim
-
+Download all of the files, then run the quick start commands below
 ## Quick Start
 ### Local Test Setup
 First, we need to install a Python 3 virtual environment with:
